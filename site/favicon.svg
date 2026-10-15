@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#0f2a3a"/>
+  <!-- San Juan: El Morro's garita (sentry box) on the wall over the Atlantic, a low sun behind it -->
+  <circle cx="10" cy="10" r="4.2" fill="#f6b85a"/>
+  <rect x="2" y="17" width="28" height="7" fill="#1aa3b8"/>
+  <rect x="2" y="17" width="28" height="2.4" fill="#36c3d6" opacity=".85"/>
+  <rect x="4" y="20.6" width="7" height="1" rx=".5" fill="#bff0f7" opacity=".6"/>
+  <rect x="14" y="22" width="9" height="1" rx=".5" fill="#bff0f7" opacity=".5"/>
+  <path d="M2 24 L30 24 L30 30 L2 30 Z" fill="#d9c9a3"/>
+  <path d="M16 24 L30 24 L30 20 L24 20 L24 14 Q24 11.5 21.5 11.5 Q19 11.5 19 14 L19 20 L16 20 Z" fill="#f3e2b8"/>
+  <path d="M21.5 9.2 L19 11.8 L24 11.8 Z" fill="#c9533a"/>
+  <rect x="20.3" y="14.2" width="2.4" height="3.6" rx=".6" fill="#0f2a3a" opacity=".85"/>
+</svg>

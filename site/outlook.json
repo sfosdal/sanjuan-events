@@ -1,0 +1,5 @@
+{
+  "_": "Off-season blurbs for the Teams view's form block (app.js renderTeamForm): shown before a season starts and once one is well over. Plain text, one per team slug. Edit freely — nothing generates this file.",
+  "cangrejeros": "The Liga Roberto Clemente's winter season opens in early November at the Estadio Hiram Bithorn and runs to late December, the playoffs into January and the champion on to the Serie del Caribe in February; the schedule fills in above once the league publishes it to MLB's stats API.",
+  "senadores": "The Senadores share the Hiram Bithorn with the Cangrejeros through the winter season — early November to late December, the playoffs into January; the schedule fills in above once the league publishes it to MLB's stats API."
+}

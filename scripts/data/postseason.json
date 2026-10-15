@@ -1,0 +1,19 @@
+{
+ "_": "Each club's postseason for the season in hand — the rounds, their dates and the final's site — shown in the Teams view as 'if they qualify' until the real games arrive (the schedules flag those playoff: true, and a round with a real game in its window gives way to it). Hand-kept: update each season from the leagues' announcements. tbd: true marks a round whose dates are the usual calendar, not yet announced. San Juan's two clubs, written 2026-10-14: the Liga Roberto Clemente's 2026-27 season opens November 4 and its regular season ends December 28; the rounds below are the usual January calendar (a round-robin semifinal, then a best-of-seven final), the champion on to the Serie del Caribe in early February.",
+ "cangrejeros": {
+  "season": "2026-27",
+  "rounds": [
+   { "name": "Semifinal round-robin", "start": "2027-01-02", "end": "2027-01-14", "tbd": true },
+   { "name": "Final", "start": "2027-01-16", "end": "2027-01-24", "tbd": true, "final": true },
+   { "name": "Serie del Caribe", "start": "2027-02-01", "end": "2027-02-07", "tbd": true }
+  ]
+ },
+ "senadores": {
+  "season": "2026-27",
+  "rounds": [
+   { "name": "Semifinal round-robin", "start": "2027-01-02", "end": "2027-01-14", "tbd": true },
+   { "name": "Final", "start": "2027-01-16", "end": "2027-01-24", "tbd": true, "final": true },
+   { "name": "Serie del Caribe", "start": "2027-02-01", "end": "2027-02-07", "tbd": true }
+  ]
+ }
+}
