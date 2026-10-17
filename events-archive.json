@@ -1,3 +1,45 @@
 {
- "events": []
+ "events": [
+  {
+   "venue": "Puerto Rico Convention Center",
+   "title": "Puerto Rico Fragrance Expo",
+   "date": "2026-10-16",
+   "time": "12:00",
+   "url": "https://www.ticketera.com/events/detail/puerto-rico-fragrance-expo",
+   "type": "community"
+  },
+  {
+   "venue": "Hotel Rumbao",
+   "title": "Open Mic En Comedy Lab",
+   "date": "2026-10-16",
+   "time": "19:30",
+   "url": "https://www.ticketera.com/events/detail/open-mic-en-comedy-lab",
+   "type": "community"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Drácula",
+   "date": "2026-10-16",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/dracula",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "The Noise - La Última Noche",
+   "date": "2026-10-16",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/the-noise-la-ultima-noche",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Music Hall",
+   "title": "Rusowsky",
+   "date": "2026-10-16",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/rusowsky",
+   "type": "concert"
+  }
+ ]
 }
