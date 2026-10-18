@@ -40,6 +40,72 @@
    "time": "20:30",
    "url": "https://www.ticketera.com/events/detail/rusowsky",
    "type": "concert"
+  },
+  {
+   "venue": "Puerto Rico Convention Center",
+   "title": "Puerto Rico Fragrance Expo",
+   "date": "2026-10-17",
+   "time": "12:00",
+   "url": "https://www.ticketera.com/events/detail/puerto-rico-fragrance-expo",
+   "type": "community"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Tres Noches Tropicales y Una Vida de Infierno",
+   "date": "2026-10-17",
+   "time": "18:00",
+   "url": "https://www.ticketera.com/events/detail/tres-noches-tropicales",
+   "type": "arts"
+  },
+  {
+   "venue": "Vivo Beach Club",
+   "title": "El Bailao: Wilfrido Vargas y El Gran Combo",
+   "date": "2026-10-17",
+   "time": "19:00",
+   "url": "https://www.ticketera.com/events/detail/el-bailao-wilfredo-vargas-y-el-gran-combo",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Music Hall",
+   "title": "Amanda Miguel",
+   "date": "2026-10-17",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/amanda-miguel",
+   "type": "concert"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Drácula",
+   "date": "2026-10-17",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/dracula",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "Manny Manuel: Rey de Corazones",
+   "date": "2026-10-17",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/manny-manuel-rey-de-corazones",
+   "type": "concert"
+  },
+  {
+   "venue": "Bellas Artes de Caguas",
+   "title": "LUVA: \"Vivir Mi Vida\"",
+   "date": "2026-10-17",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/luva-vivir-mi-vida",
+   "type": "concert"
+  },
+  {
+   "venue": "Moneró Café Teatro",
+   "title": "Una Cristiana Rookie",
+   "date": "2026-10-17",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/una-cristiana-rookie",
+   "soldOut": true,
+   "type": "arts"
   }
  ]
 }
