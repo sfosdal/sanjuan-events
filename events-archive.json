@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "venue": "Centro de Bellas Artes",
+   "title": "Conciertos Clásicos",
+   "date": "2026-09-05",
+   "time": "19:00",
+   "url": "https://www.ticketera.com/events/detail/conciertos-clasicos-2026-2027"
+  },
+  {
    "venue": "Puerto Rico Convention Center",
    "title": "Puerto Rico Fragrance Expo",
    "date": "2026-10-16",
@@ -106,6 +113,47 @@
    "url": "https://www.ticketera.com/events/detail/una-cristiana-rookie",
    "soldOut": true,
    "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Tres Noches Tropicales y Una Vida de Infierno",
+   "date": "2026-10-18",
+   "time": "15:00",
+   "url": "https://www.ticketera.com/events/detail/tres-noches-tropicales",
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Drácula",
+   "date": "2026-10-18",
+   "time": "16:00",
+   "url": "https://www.ticketera.com/events/detail/dracula",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Moneró Café Teatro",
+   "title": "Una Cristiana Rookie",
+   "date": "2026-10-18",
+   "time": "16:00",
+   "url": "https://www.ticketera.com/events/detail/una-cristiana-rookie",
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "The Phil Collins Experience",
+   "date": "2026-10-18",
+   "time": "17:00",
+   "url": "https://www.ticketera.com/events/detail/the-phil-collins-experience",
+   "type": "concert"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "Alex Zurdo: Zona Zero",
+   "date": "2026-10-18",
+   "time": "18:00",
+   "url": "https://www.ticketera.com/events/detail/alex-zurdo-zona-cero",
+   "type": "concert"
   }
  ]
 }
