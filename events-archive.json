@@ -154,6 +154,14 @@
    "time": "18:00",
    "url": "https://www.ticketera.com/events/detail/alex-zurdo-zona-cero",
    "type": "concert"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "Clarent",
+   "date": "2026-10-22",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/clarent-cpr",
+   "type": "concert"
   }
  ]
 }
