@@ -162,6 +162,54 @@
    "time": "20:30",
    "url": "https://www.ticketera.com/events/detail/clarent-cpr",
    "type": "concert"
+  },
+  {
+   "venue": "Moneró Café Teatro",
+   "title": "Detalles y Emociones Tributo a Roberto Carlos",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "url": "https://www.ticketera.com/events/detail/detalles-y-emociones-tributo-a-roberto-carlos",
+   "type": "concert"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Buena Vista Social Club",
+   "date": "2026-10-23",
+   "time": "19:30",
+   "url": "https://www.ticketera.com/events/detail/buena-vista-social-club",
+   "type": "arts"
+  },
+  {
+   "venue": "Hotel Rumbao",
+   "title": "Comedy Lab Showcase",
+   "date": "2026-10-23",
+   "time": "19:30",
+   "url": "https://www.ticketera.com/events/detail/comedy-lab-showcase-1",
+   "type": "community"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Ecos de Libertad",
+   "date": "2026-10-23",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/ecos-de-libertad",
+   "type": "concert"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Quíntuples",
+   "date": "2026-10-23",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/quintuples",
+   "type": "arts"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "Clarent",
+   "date": "2026-10-23",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/clarent-cpr",
+   "type": "concert"
   }
  ]
 }
