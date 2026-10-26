@@ -5,7 +5,8 @@
    "title": "Conciertos Clásicos",
    "date": "2026-09-05",
    "time": "19:00",
-   "url": "https://www.ticketera.com/events/detail/conciertos-clasicos-2026-2027"
+   "url": "https://www.ticketera.com/events/detail/conciertos-clasicos-2026-2027",
+   "type": "concert"
   },
   {
    "venue": "Puerto Rico Convention Center",
@@ -250,6 +251,30 @@
    "time": "20:30",
    "url": "https://www.ticketera.com/events/detail/fiel-a-la-vega",
    "type": "concert"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Buena Vista Social Club",
+   "date": "2026-10-25",
+   "time": "16:00",
+   "url": "https://www.ticketera.com/events/detail/buena-vista-social-club",
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Ecos de Libertad",
+   "date": "2026-10-25",
+   "time": "16:00",
+   "url": "https://www.ticketera.com/events/detail/ecos-de-libertad",
+   "type": "concert"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Quíntuples",
+   "date": "2026-10-25",
+   "time": "16:00",
+   "url": "https://www.ticketera.com/events/detail/quintuples",
+   "type": "arts"
   }
  ]
 }
