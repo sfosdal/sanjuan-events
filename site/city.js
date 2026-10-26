@@ -232,10 +232,10 @@
 
   var WORDS = {
     teamCity: 'San Juan', // the board drops it from the clubs' names (neither club's label carries it, so nothing changes here)
-    presetDefault: 'Every room — San Juan and Caguas — every team and type',
+    presetDefault: 'Every venue — San Juan and Caguas — every team and type',
     presetNeighborhood: 'San Juan only — the Choli, the Music Hall, the Bellas Artes, the Convention Center, the beach club and the two grounds',
     presetBig: 'Only the places that hold 2,000 or more — the Choli, the Music Hall, the Convention Center, the beach club and the two grounds',
-    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing San Juan only.', big: 'Showing the big rooms only — the Choli, the Music Hall, the Convention Center, the beach club and the two grounds.' },
+    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing San Juan only.', big: 'Showing the big venues only — the Choli, the Music Hall, the Convention Center, the beach club and the two grounds.' },
   };
 
   // Puerto Rico's public holidays (app.js holidaysFor reads this instead of
