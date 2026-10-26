@@ -81,6 +81,7 @@
   // 'Elsewhere in San Juan'.
   var VENUES = {
     'Coliseo de Puerto Rico': { // "El Choli", the island's arena in Hato Rey, 18,500 — every big tour, Miss Universe, Monster Jam
+      geo: [18.42782, -66.06134],
       capacity: 18500,
       type: 'concert',
       cssVar: '--v-choli',
@@ -90,6 +91,7 @@
       alias: /coliseo de puerto rico|\bcholi\b/i,
     },
     'Coca-Cola Music Hall': { // the 5,000-capacity hall in the Distrito T-Mobile (2021) — the mid-size tours, comedy
+      geo: [18.45543, -66.09275],
       capacity: 5000,
       type: 'concert',
       cssVar: '--v-ccmh',
@@ -99,6 +101,7 @@
       alias: /coca.?cola music hall/i,
     },
     'Centro de Bellas Artes': { // the Luis A. Ferré Performing Arts Center in Santurce — the 1,883-seat Sala de Festivales, the symphony, the plays; Ticketera calls it "CBA Santurce"
+      geo: [18.44712, -66.06832],
       capacity: 1883,
       type: 'arts',
       cssVar: '--v-cba',
@@ -108,6 +111,7 @@
       alias: /cba santurce|centro de bellas artes(?! de caguas)|luis a\.? ferr/i,
     },
     'Puerto Rico Convention Center': { // the Caribbean's largest, in Miramar — expos, fairs, the Christmas park
+      geo: [18.45332, -66.09258],
       capacity: 10000,
       type: 'community',
       cssVar: '--v-prcc',
@@ -117,6 +121,7 @@
       alias: /convention center|centro de convenciones/i,
     },
     'Vivo Beach Club': { // the beach club on the Isla Verde shore in Carolina, about 5,000 on the sand — salsa nights, DJs, the bazaars
+      geo: [18.44695, -66.00053],
       capacity: 5000,
       type: 'concert',
       cssVar: '--v-vivo',
@@ -126,6 +131,7 @@
       alias: /vivo beach/i,
     },
     'Hotel Rumbao': { // the Tribute Portfolio hotel at the foot of Old San Juan — its ballroom's concerts and shows, and the Comedy Lab (Ticketera lists the comedy room under its own name, on the hotel's page)
+      geo: [18.46417, -66.11227],
       capacity: 800,
       type: 'concert',
       cssVar: '--v-rumbao',
@@ -135,6 +141,7 @@
       alias: /rumbao|comedy lab/i,
     },
     'Estadio Hiram Bithorn': { // the 18,000-seat ballpark in Hato Rey, across from the Choli — the Cangrejeros' and Senadores' winter-league home
+      geo: [18.41684, -66.0735],
       capacity: 18000,
       type: 'sports',
       cssVar: '--v-bithorn',
@@ -144,6 +151,7 @@
       alias: /hiram bithorn/i,
     },
     'Coliseo Roberto Clemente': { // the 1973 arena beside the Bithorn, about 9,500 — BSN basketball, boxing, the odd concert
+      geo: [18.41593, -66.07545],
       capacity: 9500,
       type: 'sports',
       cssVar: '--v-clemente',
@@ -153,11 +161,13 @@
       alias: /roberto clemente/i,
     },
     'Elsewhere in San Juan': { // every room the ticketer names that has no row of its own folds here — one row, not one per room (the Everett pattern, Steve 2026-10-10)
+      geo: [18.466, -66.106],
       type: 'concert',
       cssVar: '--v-else',
       color: '#7c8a96',
     },
     'Bellas Artes de Caguas': { // the Centro de Bellas Artes de Caguas, about 1,000 seats — the same plays and comedies a week after Santurce
+      geo: [18.23617, -66.03711],
       area: 'town',
       capacity: 1000,
       type: 'arts',
@@ -168,6 +178,7 @@
       alias: /bellas artes de caguas/i,
     },
     'Moneró Café Teatro': { // a café-theatre in Caguas, about 300 — stand-up, trova, the small plays
+      geo: [18.44403, -66.06669],
       area: 'town',
       capacity: 300,
       type: 'arts',
@@ -268,6 +279,19 @@
     ics: { name: 'San Juan Events', short: 'San Juan Events', teams: 'San Juan home teams — every season', prodid: '-//here.events//sanjuan-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events around San Juan\\, Puerto Rico — the Choli\\, the Coca-Cola Music Hall\\, the Bellas Artes\\, the Convention Center\\, the beach club\\, the two grounds and Caguas\\, with the Cangrejeros\' and Senadores\' winter seasons' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [18.202, -66.151, 18.5, -65.962], // south, west, north, east — every room, with a margin
+      home: [18.403, -66.14, 18.479, -65.973], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.6,
+      labels: [
+        { name: 'San Juan', lat: 18.466, lon: -66.106, anchor: 'middle' },
+        { name: 'Río Piedras', lat: 18.39742, lon: -66.05011, anchor: 'middle' },
+        { name: 'Caguas', lat: 18.21294, lon: -66.05588, anchor: 'middle' },
+      ],
+    },
+    distanceUnit: 'km', // the mileage signs on the map read kilometres here
     venues: VENUES,
     feeds: FEEDS,
     defaultOn: DEFAULT_ON,
