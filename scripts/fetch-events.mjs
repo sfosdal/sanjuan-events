@@ -21,6 +21,7 @@
  * Ticketmaster key, so every call is paced 1.5 s apart and a 429 waits 8 s
  * and retries, six times (tmPages).
  */
+import './failures.mjs'; // first: every outside call retried, the ones still failing written to failures.json (Steve, 2026-10-29)
 import { writeFileSync, readFileSync } from 'node:fs';
 import { buildIcs } from './ics.mjs';
 import { dropTimeClashes, isChurch } from './sources.mjs';
