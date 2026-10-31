@@ -275,6 +275,38 @@
    "time": "16:00",
    "url": "https://www.ticketera.com/events/detail/quintuples",
    "type": "arts"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "Monster Jam 2026",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/monster-jam-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Coca-Cola Music Hall",
+   "title": "Bad Gyal Más Cara World Tour",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/bad-gyal-mas-cara-world-tour",
+   "type": "concert"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Por Mis Muertos",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/por-mis-muertos",
+   "type": "arts"
+  },
+  {
+   "venue": "Hotel Rumbao",
+   "title": "Comedy Lab Showcase",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "url": "https://www.ticketera.com/events/detail/comedy-lab-showcase-2",
+   "type": "arts"
   }
  ]
 }
