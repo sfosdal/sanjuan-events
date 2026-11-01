@@ -307,6 +307,54 @@
    "time": "21:00",
    "url": "https://www.ticketera.com/events/detail/comedy-lab-showcase-2",
    "type": "arts"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "Monster Jam 2026",
+   "date": "2026-10-31",
+   "time": "13:00",
+   "url": "https://www.ticketera.com/events/detail/monster-jam-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Buena Vista Social Club",
+   "date": "2026-10-31",
+   "time": "15:00",
+   "url": "https://www.ticketera.com/events/detail/buena-vista-social-club",
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Concierto Familiar 1",
+   "date": "2026-10-31",
+   "time": "18:30",
+   "url": "https://www.ticketera.com/events/detail/concierto-familiar-1",
+   "type": "concert"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "Monster Jam 2026",
+   "date": "2026-10-31",
+   "time": "19:00",
+   "url": "https://www.ticketera.com/events/detail/monster-jam-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Coca-Cola Music Hall",
+   "title": "Zacarías Ferreira",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/zacarias-ferreira",
+   "type": "concert"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Por Mis Muertos",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/por-mis-muertos",
+   "type": "arts"
   }
  ]
 }
