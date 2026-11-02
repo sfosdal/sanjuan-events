@@ -355,6 +355,73 @@
    "time": "20:00",
    "url": "https://www.ticketera.com/events/detail/por-mis-muertos",
    "type": "arts"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "Monster Jam 2026",
+   "date": "2026-11-01",
+   "time": "13:00",
+   "url": "https://www.ticketera.com/events/detail/monster-jam-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Buena Vista Social Club",
+   "date": "2026-11-01",
+   "time": "14:00",
+   "url": "https://www.ticketera.com/events/detail/buena-vista-social-club",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Hillsong en Español: El Tributo Filarmónico",
+   "date": "2026-11-01",
+   "time": "16:00",
+   "url": "https://www.ticketera.com/events/detail/hillsong-en-espanol-el-tributo-filarmonico",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Por Mis Muertos",
+   "date": "2026-11-01",
+   "time": "16:00",
+   "url": "https://www.ticketera.com/events/detail/por-mis-muertos",
+   "type": "arts"
+  },
+  {
+   "venue": "Moneró Café Teatro",
+   "title": "Lo Que La Gente Esconde",
+   "date": "2026-11-01",
+   "time": "16:30",
+   "url": "https://www.ticketera.com/events/detail/lo-que-la-gente-esconde",
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Canciones de Tite Curet Alonso 100 Años de Catalino",
+   "date": "2026-11-01",
+   "time": "17:00",
+   "url": "https://www.ticketera.com/events/detail/canciones-de-tite-curet-alonso-100-anos-de-catalino",
+   "type": "concert"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "Monster Jam 2026",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "url": "https://www.ticketera.com/events/detail/monster-jam-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Buena Vista Social Club",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "url": "https://www.ticketera.com/events/detail/buena-vista-social-club",
+   "soldOut": true,
+   "type": "arts"
   }
  ]
 }
