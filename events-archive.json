@@ -422,6 +422,14 @@
    "url": "https://www.ticketera.com/events/detail/buena-vista-social-club",
    "soldOut": true,
    "type": "arts"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Cangrejeros de Santurce vs Leones de Ponce",
+   "date": "2026-11-04",
+   "time": "19:21:00",
+   "url": "https://www.ticketera.com/events/category/deportes",
+   "type": "sports"
   }
  ]
 }
