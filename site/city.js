@@ -87,7 +87,7 @@
       cssVar: '--v-choli',
       color: '#2e5a9e',
       url: 'https://coliseodepuertorico.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=coliseodepuertorico.com&sz=128',
+      icon: 'marks/venues/coliseodepuertorico.com.png',
       alias: /coliseo de puerto rico|\bcholi\b/i,
     },
     'Coca-Cola Music Hall': { // the 5,000-capacity hall in the Distrito T-Mobile (2021) — the mid-size tours, comedy
@@ -97,7 +97,7 @@
       cssVar: '--v-ccmh',
       color: '#9e2e3e',
       url: 'https://www.cocacolamusichall.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.cocacolamusichall.com&sz=128',
+      icon: 'marks/venues/cocacolamusichall.com.png',
       alias: /coca.?cola music hall/i,
     },
     'Centro de Bellas Artes': { // the Luis A. Ferré Performing Arts Center in Santurce — the 1,883-seat Sala de Festivales, the symphony, the plays; Ticketera calls it "CBA Santurce"
@@ -107,7 +107,6 @@
       cssVar: '--v-cba',
       color: '#6a2e9e',
       url: 'https://cba.pr.gov/',
-      icon: 'https://www.google.com/s2/favicons?domain=cba.pr.gov&sz=128',
       alias: /cba santurce|centro de bellas artes(?! de caguas)|luis a\.? ferr/i,
     },
     'Puerto Rico Convention Center': { // the Caribbean's largest, in Miramar — expos, fairs, the Christmas park
@@ -117,7 +116,7 @@
       cssVar: '--v-prcc',
       color: '#2e8f9e',
       url: 'https://www.prconvention.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.prconvention.com&sz=128',
+      icon: 'marks/venues/prconvention.com.png',
       alias: /convention center|centro de convenciones/i,
     },
     'Vivo Beach Club': { // the beach club on the Isla Verde shore in Carolina, about 5,000 on the sand — salsa nights, DJs, the bazaars
@@ -127,7 +126,7 @@
       cssVar: '--v-vivo',
       color: '#2e9e8b',
       url: 'https://vivobeachclub.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=vivobeachclub.com&sz=128',
+      icon: 'marks/venues/vivobeachclub.com.png',
       alias: /vivo beach/i,
     },
     'Hotel Rumbao': { // the Tribute Portfolio hotel at the foot of Old San Juan — its ballroom's concerts and shows, and the Comedy Lab (Ticketera lists the comedy room under its own name, on the hotel's page)
@@ -137,7 +136,7 @@
       cssVar: '--v-rumbao',
       color: '#9e6b2e',
       url: 'https://www.hotelrumbaosanjuan.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.hotelrumbaosanjuan.com&sz=128',
+      icon: 'marks/venues/hotelrumbaosanjuan.com.png',
       alias: /rumbao|comedy lab/i,
     },
     'Estadio Hiram Bithorn': { // the 18,000-seat ballpark in Hato Rey, across from the Choli — the Cangrejeros' and Senadores' winter-league home
@@ -147,7 +146,7 @@
       cssVar: '--v-bithorn',
       color: '#c2521f',
       url: 'https://ligapr.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=ligapr.com&sz=128',
+      icon: 'marks/venues/ligapr.com.png',
       alias: /hiram bithorn/i,
     },
     'Coliseo Roberto Clemente': { // the 1973 arena beside the Bithorn, about 9,500 — BSN basketball, boxing, the odd concert
@@ -157,7 +156,7 @@
       cssVar: '--v-clemente',
       color: '#2e9e4a',
       url: 'https://bsnpr.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=bsnpr.com&sz=128',
+      icon: 'marks/venues/bsnpr.com.png',
       alias: /roberto clemente/i,
     },
     'Elsewhere in San Juan': { // every room the ticketer names that has no row of its own folds here — one row, not one per room (the Everett pattern, Steve 2026-10-10)
@@ -174,7 +173,7 @@
       cssVar: '--v-cbac',
       color: '#9e2e7a',
       url: 'https://www.bellasartescaguas.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.bellasartescaguas.com&sz=128',
+      icon: 'marks/venues/bellasartescaguas.com.png',
       alias: /bellas artes de caguas/i,
     },
     'Moneró Café Teatro': { // a café-theatre in Caguas, about 300 — stand-up, trova, the small plays
@@ -185,7 +184,7 @@
       cssVar: '--v-monero',
       color: '#8a7a2e',
       url: 'https://www.ticketera.com/events/venue/monero-cafe-teatro-bar',
-      icon: 'https://www.google.com/s2/favicons?domain=www.ticketera.com&sz=128',
+      icon: 'marks/venues/ticketera.com.png',
       alias: /moner[oó]/i,
     },
   };
