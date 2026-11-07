@@ -184,7 +184,6 @@
       cssVar: '--v-monero',
       color: '#8a7a2e',
       url: 'https://www.ticketera.com/events/venue/monero-cafe-teatro-bar',
-      icon: 'marks/venues/ticketera.com.png',
       alias: /moner[oó]/i,
     },
   };
