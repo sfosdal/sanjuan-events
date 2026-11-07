@@ -438,6 +438,22 @@
    "time": "19:21:00",
    "url": "https://senadoresdesanjuan.com/",
    "type": "sports"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Cangrejeros de Santurce vs Indios de Mayaguez",
+   "date": "2026-11-06",
+   "time": "19:21:00",
+   "url": "https://www.ticketera.com/events/category/deportes",
+   "type": "sports"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Suzette Bacó \"Con Todas Ellas\"",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "url": "https://www.ticketera.com/events/detail/suzette-baco-con-todas-ellas",
+   "type": "arts"
   }
  ]
 }
