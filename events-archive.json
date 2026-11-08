@@ -454,6 +454,73 @@
    "time": "19:30",
    "url": "https://www.ticketera.com/events/detail/suzette-baco-con-todas-ellas",
    "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Suzette Bacó \"Con Todas Ellas\"",
+   "date": "2026-11-07",
+   "time": "16:00",
+   "url": "https://www.ticketera.com/events/detail/suzette-baco-con-todas-ellas",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Concierto Clásico 4",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "url": "https://www.ticketera.com/events/detail/concierto-clasico-4",
+   "type": "concert"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Cangrejeros de Santurce vs Indios de Mayaguez",
+   "date": "2026-11-07",
+   "time": "19:21:00",
+   "url": "https://www.ticketera.com/events/category/deportes",
+   "type": "sports"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Suzette Bacó \"Con Todas Ellas\"",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "url": "https://www.ticketera.com/events/detail/suzette-baco-con-todas-ellas",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Buena Vista Social Club",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/buena-vista-social-club",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Vivo Beach Club",
+   "title": "MAU P",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/mau-p",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Music Hall",
+   "title": "HUMBE",
+   "date": "2026-11-07",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/humbe",
+   "type": "concert"
+  },
+  {
+   "venue": "Bellas Artes de Caguas",
+   "title": "Puros Machos",
+   "date": "2026-11-07",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/puros-machos",
+   "type": "arts"
   }
  ]
 }
