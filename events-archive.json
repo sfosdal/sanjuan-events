@@ -587,6 +587,14 @@
    "time": "20:30",
    "url": "https://www.ticketera.com/events/detail/humbe",
    "type": "concert"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Senadores de San Juan vs Cangrejeros de Santurce",
+   "date": "2026-11-10",
+   "time": "19:21:00",
+   "url": "https://senadoresdesanjuan.com/",
+   "type": "sports"
   }
  ]
 }
