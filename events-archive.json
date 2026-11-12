@@ -595,6 +595,22 @@
    "time": "19:21:00",
    "url": "https://senadoresdesanjuan.com/",
    "type": "sports"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Cangrejeros de Santurce vs Senadores de San Juan",
+   "date": "2026-11-11",
+   "time": "19:21:00",
+   "url": "https://www.ticketera.com/events/category/deportes",
+   "type": "sports"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "Alejandro Sanz ¿Y Ahora Qué? Gira 2026",
+   "date": "2026-11-11",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/alejandro-sanz-y-ahora-que-gira-2026",
+   "type": "concert"
   }
  ]
 }
