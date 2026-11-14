@@ -5,7 +5,8 @@
    "title": "Conciertos Clásicos",
    "date": "2026-09-05",
    "time": "19:00",
-   "url": "https://www.ticketera.com/events/detail/conciertos-clasicos-2026-2027"
+   "url": "https://www.ticketera.com/events/detail/conciertos-clasicos-2026-2027",
+   "type": "concert"
   },
   {
    "venue": "Puerto Rico Convention Center",
@@ -619,6 +620,62 @@
    "time": "20:30",
    "url": "https://www.ticketera.com/events/detail/nacho-redondo-terapia-de-grupo",
    "type": "concert"
+  },
+  {
+   "venue": "Moneró Café Teatro",
+   "title": "Marcos Llunas",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "url": "https://www.ticketera.com/events/detail/marcos-llunas",
+   "type": "concert"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Cangrejeros de Santurce vs Gigantes de Carolina",
+   "date": "2026-11-13",
+   "time": "19:21:00",
+   "url": "https://www.ticketera.com/events/category/deportes",
+   "type": "sports"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "WISIN",
+   "date": "2026-11-13",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/wisin",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Music Hall",
+   "title": "Nacho Redondo - Terapia De Grupo",
+   "date": "2026-11-13",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/nacho-redondo-terapia-de-grupo",
+   "type": "concert"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Spelling Bee: Una Comedia Musical",
+   "date": "2026-11-13",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/spelling-bee",
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Toc Toc",
+   "date": "2026-11-13",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/toc-toc",
+   "type": "arts"
+  },
+  {
+   "venue": "Hotel Rumbao",
+   "title": "Comedy Lab Open Mic",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "url": "https://www.ticketera.com/events/detail/comedy-lab-open-mic",
+   "type": "community"
   }
  ]
 }
