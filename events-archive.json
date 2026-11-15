@@ -676,6 +676,70 @@
    "time": "21:00",
    "url": "https://www.ticketera.com/events/detail/comedy-lab-open-mic",
    "type": "community"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Toc Toc",
+   "date": "2026-11-14",
+   "time": "14:00",
+   "url": "https://www.ticketera.com/events/detail/toc-toc",
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Voces De América",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://www.ticketera.com/events/detail/voces-de-america",
+   "type": "concert"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Senadores de San Juan vs Indios de Mayaguez",
+   "date": "2026-11-14",
+   "time": "19:21:00",
+   "url": "https://senadoresdesanjuan.com/",
+   "type": "sports"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "WISIN",
+   "date": "2026-11-14",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/wisin",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Music Hall",
+   "title": "David Bisbal",
+   "date": "2026-11-14",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/david-bisbal",
+   "type": "concert"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Toc Toc",
+   "date": "2026-11-14",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/toc-toc",
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Spelling Bee: Una Comedia Musical",
+   "date": "2026-11-14",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/spelling-bee",
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Thriller, Philarmonic Tribute to Michael Jackson",
+   "date": "2026-11-14",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/thriller-philarmonic-tribute-to-michael-jackson",
+   "type": "concert"
   }
  ]
 }
