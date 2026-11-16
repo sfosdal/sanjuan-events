@@ -740,6 +740,46 @@
    "time": "20:30",
    "url": "https://www.ticketera.com/events/detail/thriller-philarmonic-tribute-to-michael-jackson",
    "type": "concert"
+  },
+  {
+   "venue": "Vivo Beach Club",
+   "title": "Christmas Bazaar",
+   "date": "2026-11-15",
+   "time": "11:00",
+   "url": "https://www.ticketera.com/events/detail/christmas-bazaar-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Moneró Café Teatro",
+   "title": "Luis Perico Ortiz Te Llegó la Trulla",
+   "date": "2026-11-15",
+   "time": "16:00",
+   "url": "https://www.ticketera.com/events/detail/luis-perico-ortiz-te-llego-la-trulla",
+   "type": "concert"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Cangrejeros de Santurce vs Criollos de Caguas",
+   "date": "2026-11-15",
+   "time": "16:21:00",
+   "url": "https://www.ticketera.com/events/category/deportes",
+   "type": "sports"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Spelling Bee: Una Comedia Musical",
+   "date": "2026-11-15",
+   "time": "18:00",
+   "url": "https://www.ticketera.com/events/detail/spelling-bee",
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Toc Toc",
+   "date": "2026-11-15",
+   "time": "18:00",
+   "url": "https://www.ticketera.com/events/detail/toc-toc",
+   "type": "arts"
   }
  ]
 }
