@@ -780,6 +780,14 @@
    "time": "18:00",
    "url": "https://www.ticketera.com/events/detail/toc-toc",
    "type": "arts"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Senadores de San Juan vs Criollos de Caguas",
+   "date": "2026-11-16",
+   "time": "19:21:00",
+   "url": "https://senadoresdesanjuan.com/",
+   "type": "sports"
   }
  ]
 }
