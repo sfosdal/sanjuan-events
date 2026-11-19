@@ -796,6 +796,22 @@
    "time": "19:21:00",
    "url": "https://senadoresdesanjuan.com/",
    "type": "sports"
+  },
+  {
+   "venue": "Vivo Beach Club",
+   "title": "Miss Universe Meet & Greet",
+   "date": "2026-11-18",
+   "time": "14:00",
+   "url": "https://www.ticketera.com/events/detail/miss-universe-meet-greet",
+   "type": "community"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Cangrejeros de Santurce vs Senadores de San Juan",
+   "date": "2026-11-18",
+   "time": "19:21:00",
+   "url": "https://www.ticketera.com/events/category/deportes",
+   "type": "sports"
   }
  ]
 }
