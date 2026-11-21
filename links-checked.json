@@ -1,5 +1,6 @@
 {
  "links": {
+  "https://cba.pr.gov/": "2026-11-21",
   "https://coliseodepuertorico.com/": "2026-11-20",
   "https://ligapr.com/": "2026-11-20",
   "https://senadoresdesanjuan.com/": "2026-11-20",
@@ -9,6 +10,7 @@
  },
  "guard": {
   "https://bsnpr.com/": "2026-11-19",
+  "https://cba.pr.gov/": "2026-11-21",
   "https://coliseodepuertorico.com/": "2026-11-19",
   "https://ligapr.com/": "2026-11-19",
   "https://senadoresdesanjuan.com/": "2026-11-19",

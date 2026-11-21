@@ -820,6 +820,39 @@
    "time": "19:21:00",
    "url": "https://www.ticketera.com/events/category/deportes",
    "type": "sports"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Cangrejeros de Santurce vs Gigantes de Carolina",
+   "date": "2026-11-20",
+   "time": "19:21:00",
+   "url": "https://www.ticketera.com/events/category/deportes",
+   "type": "sports"
+  },
+  {
+   "venue": "Coca-Cola Music Hall",
+   "title": "Conep",
+   "date": "2026-11-20",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/conep",
+   "type": "concert"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Héctor Méndez: \"Que se Jo.. Jo.. Joda el Show\"",
+   "date": "2026-11-20",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/hector-mendez-y-que-se-jojo",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Hotel Rumbao",
+   "title": "Comedy Lab Showcase",
+   "date": "2026-11-20",
+   "time": "21:00",
+   "url": "https://www.ticketera.com/events/detail/comedy-lab-showcase-4",
+   "type": "arts"
   }
  ]
 }
