@@ -853,6 +853,46 @@
    "time": "21:00",
    "url": "https://www.ticketera.com/events/detail/comedy-lab-showcase-4",
    "type": "arts"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "Miss Universe",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://www.ticketera.com/events/detail/miss-universe",
+   "type": "community"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Concierto Clásico 5",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://www.ticketera.com/events/detail/concierto-clasico-5",
+   "type": "concert"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Cangrejeros de Santurce vs Senadores de San Juan",
+   "date": "2026-11-21",
+   "time": "19:21:00",
+   "url": "https://www.ticketera.com/events/category/deportes",
+   "type": "sports"
+  },
+  {
+   "venue": "Bellas Artes de Caguas",
+   "title": "El Penthouse de Guille",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://www.ticketera.com/events/detail/el-apartamento-de-guille",
+   "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "¡Qué Crical!",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/que-crical",
+   "type": "arts"
   }
  ]
 }
