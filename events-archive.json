@@ -893,6 +893,54 @@
    "time": "20:00",
    "url": "https://www.ticketera.com/events/detail/que-crical",
    "type": "arts"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Alma de tango: de Gardel a Piazzolla",
+   "date": "2026-11-22",
+   "time": "16:00",
+   "url": "https://www.ticketera.com/events/detail/alma-de-tango-de-gardel-a-piazzolla",
+   "type": "concert"
+  },
+  {
+   "venue": "Bellas Artes de Caguas",
+   "title": "Caribbean Tenors - Tributo a Juan Gabriel",
+   "date": "2026-11-22",
+   "time": "16:00",
+   "url": "https://www.ticketera.com/events/detail/caribbeantenors-tributoajuangabriel",
+   "type": "concert"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Senadores de San Juan vs Indios de Mayaguez",
+   "date": "2026-11-22",
+   "time": "16:21:00",
+   "url": "https://senadoresdesanjuan.com/",
+   "type": "sports"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Danny Rivera",
+   "date": "2026-11-22",
+   "time": "17:30",
+   "url": "https://www.ticketera.com/events/detail/danny-rivera",
+   "type": "concert"
+  },
+  {
+   "venue": "Coliseo de Puerto Rico",
+   "title": "Miss Universe",
+   "date": "2026-11-22",
+   "time": "19:00",
+   "url": "https://www.ticketera.com/events/detail/miss-universe",
+   "type": "community"
+  },
+  {
+   "venue": "Coca-Cola Music Hall",
+   "title": "Elevation Rhythm",
+   "date": "2026-11-22",
+   "time": "19:00",
+   "url": "https://www.ticketera.com/events/detail/elevation-rhythm",
+   "type": "concert"
   }
  ]
 }

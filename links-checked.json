@@ -1,22 +1,22 @@
 {
  "links": {
   "https://cba.pr.gov/": "2026-11-21",
-  "https://coliseodepuertorico.com/": "2026-11-20",
-  "https://ligapr.com/": "2026-11-20",
-  "https://senadoresdesanjuan.com/": "2026-11-20",
-  "https://vivobeachclub.com/": "2026-11-20",
-  "https://www.bellasartescaguas.com/": "2026-11-20",
-  "https://www.cocacolamusichall.com/": "2026-11-20"
+  "https://coliseodepuertorico.com/": "2026-11-23",
+  "https://ligapr.com/": "2026-11-23",
+  "https://senadoresdesanjuan.com/": "2026-11-23",
+  "https://vivobeachclub.com/": "2026-11-23",
+  "https://www.bellasartescaguas.com/": "2026-11-23",
+  "https://www.cocacolamusichall.com/": "2026-11-23"
  },
  "guard": {
-  "https://bsnpr.com/": "2026-11-19",
+  "https://bsnpr.com/": "2026-11-23",
   "https://cba.pr.gov/": "2026-11-21",
-  "https://coliseodepuertorico.com/": "2026-11-19",
-  "https://ligapr.com/": "2026-11-19",
-  "https://senadoresdesanjuan.com/": "2026-11-19",
-  "https://vivobeachclub.com/": "2026-11-19",
-  "https://www.bellasartescaguas.com/": "2026-11-19",
-  "https://www.cocacolamusichall.com/": "2026-11-19",
-  "https://www.prconvention.com/": "2026-11-19"
+  "https://coliseodepuertorico.com/": "2026-11-23",
+  "https://ligapr.com/": "2026-11-23",
+  "https://senadoresdesanjuan.com/": "2026-11-23",
+  "https://vivobeachclub.com/": "2026-11-23",
+  "https://www.bellasartescaguas.com/": "2026-11-23",
+  "https://www.cocacolamusichall.com/": "2026-11-23",
+  "https://www.prconvention.com/": "2026-11-23"
  }
 }
