@@ -965,6 +965,23 @@
    "time": "20:00",
    "url": "https://www.ticketera.com/events/detail/miss-universe",
    "type": "community"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Cangrejeros de Santurce vs Leones de Ponce",
+   "date": "2026-11-25",
+   "time": null,
+   "url": "https://www.ticketera.com/events/category/deportes",
+   "type": "sports",
+   "dateTbd": true
+  },
+  {
+   "venue": "Coca-Cola Music Hall",
+   "title": "Toño Rosario - El Cuquito Galáctico",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "url": "https://www.ticketera.com/events/detail/tono-rosario-el-cuquito-galactico",
+   "type": "concert"
   }
  ]
 }
