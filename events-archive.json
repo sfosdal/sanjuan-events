@@ -982,6 +982,30 @@
    "time": "20:00",
    "url": "https://www.ticketera.com/events/detail/tono-rosario-el-cuquito-galactico",
    "type": "concert"
+  },
+  {
+   "venue": "Estadio Hiram Bithorn",
+   "title": "Senadores de San Juan vs Cangrejeros de Santurce",
+   "date": "2026-11-27",
+   "time": "19:21:00",
+   "url": "https://senadoresdesanjuan.com/",
+   "type": "sports"
+  },
+  {
+   "venue": "Hotel Rumbao",
+   "title": "Carlos Sánchez Stand-Up Comedy",
+   "date": "2026-11-27",
+   "time": "19:30",
+   "url": "https://www.ticketera.com/events/detail/carlos-sanchez-stand-up-comedy",
+   "type": "community"
+  },
+  {
+   "venue": "Centro de Bellas Artes",
+   "title": "Maestra Vida: El Musical de Rubén Blades",
+   "date": "2026-11-27",
+   "time": "20:30",
+   "url": "https://www.ticketera.com/events/detail/maestra-vida-el-musical-de-ruben-blades",
+   "type": "arts"
   }
  ]
 }
